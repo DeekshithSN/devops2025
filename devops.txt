@@ -2,4 +2,7 @@ welcome to devops
 tools coverd 
 - linux 
 - git
+- docker 
+- kubernetes
+- helm
 - ansible
