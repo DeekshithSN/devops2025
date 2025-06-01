@@ -1,0 +1,5 @@
+welcome to devops 
+tools coverd 
+- linux 
+- git
+- ansible
