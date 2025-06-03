@@ -6,3 +6,4 @@ tools coverd
 - k8s 
 - helm 
 - gitlab
+- nexus
