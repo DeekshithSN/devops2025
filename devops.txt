@@ -3,3 +3,7 @@ tools coverd
 - linux 
 - git
 - ansible
+- k8s 
+- helm 
+- gitlab
+- nexus
