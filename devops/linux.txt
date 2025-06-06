@@ -3,7 +3,7 @@ ls
 pwd 
 
 tr 
-
+fnf
 ffjofj
 
 m1
