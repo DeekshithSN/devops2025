@@ -7,3 +7,5 @@ tools coverd
 - helm 
 - gitlab
 - nexus
+- xyz
+- fyguf
