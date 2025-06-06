@@ -1,3 +1,6 @@
 [submodule "CICD_Java_gradle_application"]
 	path = CICD_Java_gradle_application
 	url = https://github.com/DeekshithSN/CICD_Java_gradle_application.git
+[submodule "devops/submodule"]
+	path = devops/submodule
+	url = https://github.com/DeekshithSN/kubernetes.git
